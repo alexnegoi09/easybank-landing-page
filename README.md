@@ -1,0 +1,1 @@
+A landing page for a fictional bank, made with CSS and JavaScript.
